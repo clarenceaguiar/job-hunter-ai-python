@@ -1,0 +1,145 @@
+{
+  "jobspy_sites": [
+    "indeed",
+    "linkedin"
+  ],
+  "termos_busca": [
+    "Junior Software Engineer",
+    "Junior Developer",
+    "Java Junior",
+    "Python Junior",
+    "Frontend Junior",
+    "Trainee IT",
+    "Academia TI",
+    "Junior QA Tester",
+    "Junior Linux Support"
+  ],
+  "portais_customizados": [
+    {
+      "nome": "Teamlyzer",
+      "url": "https://pt.teamlyzer.com/companies/jobs",
+      "ativo": true,
+      "filtro_url": "/job/"
+    },
+    {
+      "nome": "ITJobs.pt",
+      "url": "https://www.itjobs.pt/emprego",
+      "ativo": true,
+      "filtro_url": "/oferta/"
+    },
+    {
+      "nome": "Devs.com.pt",
+      "url": "https://devs.com.pt/jobs",
+      "ativo": true,
+      "filtro_url": "/jobs/"
+    },
+    {
+      "nome": "PrimeIT",
+      "url": "https://www.primeit.pt/carreiras",
+      "ativo": true,
+      "filtro_url": "/carreiras/"
+    },
+    {
+      "nome": "Crossjoin Solutions",
+      "url": "https://www.crossjoin.pt/",
+      "ativo": true,
+      "filtro_url": "career"
+    },
+    {
+      "nome": "Equação IT",
+      "url": "https://equacaoit.pt/oportunidades.php",
+      "ativo": true,
+      "filtro_url": "oportunidade"
+    },
+    {
+      "nome": "Multivision",
+      "url": "https://www.multivision.pt/carreiras/",
+      "ativo": true,
+      "filtro_url": "carreiras"
+    },
+    {
+      "nome": "ITDS Portugal",
+      "url": "https://itdsportugal.com/careers/",
+      "ativo": true,
+      "filtro_url": "/careers/"
+    },
+    {
+      "nome": "WeAreMeta",
+      "url": "https://www.wearemeta.io/jobs/",
+      "ativo": false,
+      "filtro_url": "/jobs/"
+    },
+    {
+      "nome": "Emagine Portugal",
+      "url": "https://portal.emagine.org/jobs/all",
+      "ativo": true,
+      "filtro_url": "/jobs/"
+    },
+    {
+      "nome": "Experis Portugal",
+      "url": "https://www.experis.pt/",
+      "ativo": true,
+      "filtro_url": "/emprego/"
+    },
+    {
+      "nome": "Sapo Emprego",
+      "url": "https://emprego.sapo.pt/portugal",
+      "ativo": true,
+      "filtro_url": "/oferta/"
+    },
+    {
+      "nome": "Net-Empregos",
+      "url": "https://www.net-empregos.com/pesquisa-empregos.asp",
+      "ativo": true,
+      "filtro_url": "emprego-"
+    },
+    {
+      "nome": "Welcome to the Jungle",
+      "url": "https://www.welcometothejungle.com/en/jobs?aroundQuery=Portugal",
+      "ativo": true,
+      "filtro_url": "/jobs/"
+    },
+    {
+      "nome": "Expleo Careers",
+      "url": "https://careers.expleo.com/",
+      "ativo": false,
+      "filtro_url": "/job"
+    },
+    {
+      "nome": "Sebasi",
+      "url": "https://www.sebasi.pt/carreiras/Oportunidades.aspx",
+      "ativo": true,
+      "filtro_url": "Oportunidade"
+    },
+    {
+      "nome": "Deus.ai",
+      "url": "https://talent.deus.ai/jobs",
+      "ativo": true,
+      "filtro_url": "/jobs/"
+    },
+    {
+      "nome": "Arquiconsult",
+      "url": "https://arquiconsult.com/arquitalent/",
+      "ativo": true,
+      "filtro_url": "arquitalent"
+    },
+    {
+      "nome": "NTT DATA",
+      "url": "https://careers.emeal.nttdata.com/s/jobs",
+      "ativo": true,
+      "filtro_url": "/job"
+    },
+    {
+      "nome": "Thread and Logic",
+      "url": "https://thread-and-logic.talentglade.com/",
+      "ativo": true,
+      "filtro_url": "/jobs/"
+    },
+    {
+      "nome": "Revolut",
+      "url": "https://www.revolut.com/careers/",
+      "ativo": true,
+      "filtro_url": "/position/"
+    }
+  ]
+}

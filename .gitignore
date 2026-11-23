@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Arquivo de variáveis de ambiente
+.env
+
+# Arquivos com perfis pessoais
+seen_jobs.json
+vagas*.md
